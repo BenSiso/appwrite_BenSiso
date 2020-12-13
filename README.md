@@ -12,11 +12,11 @@ Written in **PHP**.
  Done.
  
  ## #ENDPOINTS
- GET - api/notes - return all notes.
- GET - api/notes?note_id={note id} - return specific note data.
- POST - api/notes?user_id={user id}&content={content info} - create note.
- PUST - api/notes?note_id={note id} - update content of specific note.
- DELETE - api/notes?note_id={note id} - delete note with note_id=={note id}. 
+ GET - api/notes - Return all notes.<br/>
+ GET - api/notes?note_id={note id} - Return specific note data.<br/>
+ POST - api/notes?user_id={user id}&content={content info} - Create note.<br/>
+ PUST - api/notes?note_id={note id} - Update content of specific note.<br/>
+ DELETE - api/notes?note_id={note id} - Delete note with note_id=={note id}. <br/>
  
  ## Futrue entity's goals/features
   * Finish working on JSON abstraction.
