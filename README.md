@@ -1,15 +1,15 @@
 # Notes
-Simple REST API for writing notes using some of the Appwrite preferred tools and libraries(Swoole,PHP,Utopia), named **"Notes"**.<br/>
+Simple REST API for writing notes using some of the Appwrite preferred tools and libraries(Swoole,Utopia), named **"Notes"**.<br/>
 Written in **PHP**.
 
 
 ## #HOWTO
- - [x] Install Docker Engine.
- - [x] Open your terminal.
- - [x] Git clone this repository.
- - [x] Run: docker build -t notesapi.
- - [x] Run: docker run -d -p 6000:80 notesapi.
- - Done.
+ - [ ] Install Docker Engine.
+ - [ ] Open your terminal.
+ - [ ] Git clone this repository.
+ - [ ] Run: docker build -t notesapi.
+ - [ ] Run: docker run -d -p 6000:80 notesapi.
+ Done.
  
  ## #ENDPOINTS
  GET - api/notes - return all notes.
