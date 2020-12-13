@@ -18,6 +18,12 @@ Written in **PHP**.
  PUST - api/notes?note_id={note id} - Update content of specific note.<br/>
  DELETE - api/notes?note_id={note id} - Delete note with note_id=={note id}. <br/>
  
+ ## #EXAMPLE
+ **Get all current notes(JSON)**
+ '''
+ curl http://0.0.0.0:6000/api/notes
+ '''
+ 
  ## Futrue entity's goals/features
   * Finish working on JSON abstraction.
   * Add a possbility to write note for teams.
