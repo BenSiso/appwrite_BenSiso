@@ -19,12 +19,12 @@ Written in **PHP**.
  DELETE - api/notes?note_id={note id} - Delete note with note_id=={note id}. <br/>
  
  ## #EXAMPLE
- **Get all current notes(JSON)**
- '''
+ **Get all current notes(JSON)**  <br/>
+```
  curl http://0.0.0.0:6000/api/notes
- '''
+```
  
- ## Futrue entity's goals/features
+ ## Futrue entity's goals/features <br/>
   * Finish working on JSON abstraction.
   * Add a possbility to write note for teams.
   * Build a task oriented notes - automate admin future actions.
