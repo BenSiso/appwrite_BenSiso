@@ -9,7 +9,9 @@ use Utopia\Validator\Text;
 use Utopia\Validator\Integer;
 use Utopia\Validator\Range;
 
-
+define("HOST", "0.0.0.0");
+define("PORT", 6000);
+define("TIME_ZONE", "Asia/Tel_Aviv");
 
 // GET all notes OR get a specific note by note_id
 // @param user_id - user id
