@@ -9,7 +9,6 @@ use Swoole\Http\Server;
 use Swoole\Http\Request as SwooleRequest;
 use Swoole\Http\Response as SwooleResponse;
 
-require 'init.php';
 require 'Notes.php';
 
 $http = new Server(HOST, PORT);
