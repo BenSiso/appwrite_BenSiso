@@ -4,11 +4,11 @@ Written in **PHP**.
 
 
 ## #HOWTO
- - [ ] Install Docker(Locally / Remote).
- - [ ] Lunch your terminal.
- - [ ] Git clone this repository.
- - [ ] Run: docker build -t notesapi.
- - [ ] Run: docker run -d -p 6000:80 notesapi.
+ - [ ] Install Docker(Locally / Remote)
+ - [ ] Lunch your terminal
+ - [ ] Git clone this repository
+ - [ ] Run: docker build -t notesapi .
+ - [ ] Run: docker run -d -p 6000:80 notesapi
  Done.
  
  ## #ENDPOINTS
