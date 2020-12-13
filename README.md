@@ -8,7 +8,7 @@ Written in **PHP**.
  - [ ] Lunch your terminal
  - [ ] Git clone this repository
  - [ ] Run: docker build -t notesapi .
- - [ ] Run: docker run -d -p 6000:80 notesapi
+ - [ ] Run: docker run -d -p 6000:80 notesapi  <br/>
  Done.
  
  ## #ENDPOINTS
